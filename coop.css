@@ -1,0 +1,49 @@
+body{
+    font-family: courier new;
+    background-color: navy
+    margin:0;
+    padding:0; 
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100%;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto
+}
+
+header {
+    background-color: goldenrod;
+    padding: 10px;
+    text-align: center;
+}
+
+nav{
+    background-color: white
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia;
+}
+
+nav li{
+    display: inline;
+    padding: 20 px;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    color:darkgray;
+    background-color: navy;
+}
+
+nav a:hover {
+    color: darkgoldenrod
+    background-color: white;
+}
+
